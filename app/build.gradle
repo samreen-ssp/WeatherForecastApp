@@ -66,5 +66,6 @@ dependencies {
 
     // Gson
     implementation "com.google.code.gson:gson:2.8.5"
+    implementation 'com.tapadoo.android:alerter:3.0.0'
 
 }

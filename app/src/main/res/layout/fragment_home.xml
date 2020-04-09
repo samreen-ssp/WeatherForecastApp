@@ -5,7 +5,7 @@
 
         <variable
             name="vm"
-            type="com.example.weatherforecast.ui.home.HomeViewModel" />
+            type="com.example.weatherforecast.ui.home.viewmodel.HomeViewModel" />
     </data>
 
     <FrameLayout

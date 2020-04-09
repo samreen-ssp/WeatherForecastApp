@@ -6,7 +6,7 @@
         <import type="android.view.View"/>
         <variable
             name="vm"
-            type="com.example.weatherforecast.ui.home.HourWeatherVM" />
+            type="com.example.weatherforecast.ui.home.viewmodel.HourWeatherVM" />
     </data>
 
 

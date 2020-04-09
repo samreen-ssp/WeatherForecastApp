@@ -8,6 +8,8 @@ import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.Fragment
 import com.example.weatherforecast.R
 import com.example.weatherforecast.databinding.FragmentHomeBinding
+import com.example.weatherforecast.ui.home.viewmodel.HomeViewModel
+
 
 class HomeFragment : Fragment() {
 
